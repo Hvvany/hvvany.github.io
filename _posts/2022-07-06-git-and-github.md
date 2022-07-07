@@ -15,7 +15,7 @@ title: "[22.07.06] Git & GitHub"
 
 ​	GitHub, GitLab, Bitbucket 등이 있다
 
-![image]([https://github.com/hvvany/hvvany.github.io/blob/master/_posts/%5B22.07.06%5D_git_and_github.assets/image.png](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/%5B22.07.06%5D_git_and_github.assets/image.png?raw=true))
+![image](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/%5B22.07.06%5D_git_and_github.assets/image.png)
 
 [가장 대표적이고 인기있는 깃허브]
 
@@ -37,13 +37,13 @@ title: "[22.07.06] Git & GitHub"
 
 > ### 2. Repository setting
 
-![image-20220706171114335]([22.07.06]_git_and_github.assets/image-20220706171114335.png)
+![image-20220706171114335](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/%5B22.07.06%5D_git_and_github.assets/image-20220706171114335.png)
 
 
 
 > ### 3. Check
 
-![image-20220706171305606]([22.07.06]_git_and_github.assets/image-20220706171305606.png)
+![image-20220706171305606](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/%5B22.07.06%5D_git_and_github.assets/image-20220706171305606.png)
 
 
 
@@ -114,7 +114,7 @@ title: "[22.07.06] Git & GitHub"
    
 4. #### 커밋메시지 중요
 
-   ![image-20220707084757828]([22.07.06]_git_and_github.assets/image-20220707084757828.png)
+   ![image-20220707084757828](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/%5B22.07.06%5D_git_and_github.assets/image-20220707084757828.png)
 
 ​		`git commit -m` 을 입력했었지만 더 길게 작성하고 싶으면 -m을 입력하지 않고 에디터 창에서 적어주면 된다.
 
@@ -142,7 +142,7 @@ title: "[22.07.06] Git & GitHub"
 
    
 
-   [![image-20220707090143710]([22.07.06]_git_and_github.assets/image-20220707090143710.png)](https://www.toptal.com/developers/gitignore/)
+   [![image-20220707090143710](https://www.toptal.com/developers/gitignore/)
 
 > [이미지 클릭하면 링크 이동]
 
