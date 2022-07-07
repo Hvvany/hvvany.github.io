@@ -15,7 +15,7 @@ title: "[22.07.06] Git & GitHub"
 
 ​	GitHub, GitLab, Bitbucket 등이 있다
 
-![image](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/%5B22.07.06%5D_git_and_github.assets/image.png)
+![image]([https://github.com/hvvany/hvvany.github.io/blob/master/_posts/%5B22.07.06%5D_git_and_github.assets/image.png](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/%5B22.07.06%5D_git_and_github.assets/image.png?raw=true))
 
 [가장 대표적이고 인기있는 깃허브]
 
@@ -31,7 +31,7 @@ title: "[22.07.06] Git & GitHub"
 
 > ### 1. New repository
 
-![image-20220706170740364]([22.07.06]_git_and_github.assets/image-20220706170740364.png)
+![image-20220706170740364](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/%5B22.07.06%5D_git_and_github.assets/image-20220706170740364.png?raw=true)
 
 
 
