@@ -1,3 +1,8 @@
+---
+layout: single
+title: "[22.07.05] Markdown & Git"
+---
+
 # Markdown & Git
 
 
