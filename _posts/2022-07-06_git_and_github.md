@@ -1,3 +1,8 @@
+---
+layout: single
+title: "[22.07.06] Git & GitHub"
+---
+
 # Git & GitHub
 
 
