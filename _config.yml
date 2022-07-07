@@ -105,9 +105,9 @@ analytics:
 # Site Author
 author:
   name             : "Junhwan Kim"
-  avatar           : "/hvvany.github.io/hvvany_profile.jpg"
+  avatar           : "/hvvany_profile.jpg"
   bio              : "The **king** of the desert"
-  location         : "Republic of **KOREA**"
+  location         : "Republic of KOREA"
   email            :
   links:
     - label: "Email"
