@@ -1,3 +1,9 @@
+---
+layout: single
+title: "[22.07.07] Git Flow & Pull Request"
+---
+
+
 # Git Flow
 
 #git #git_flow #branch #git_hub #pull_request #clone #merge
@@ -8,7 +14,7 @@
 
 ​	**`나뭇가지`**처럼 메인 줄기에서 뻗어나가 서로 영향을 받지 않고 작업하고 다시 병합되는 구조
 
-![img](https://miro.medium.com/max/1400/1*dRtIbjRK64BCbXzT7f_rPw.png)	
+![img](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-07-07-github-pull-branch.assets/branch.png?raw=true)	
 
 > 브랜치의 구조 ( 출처 : https://miro.medium.com/max/1400/1)
 
@@ -92,9 +98,9 @@
 
 1. #### 기존 master 브랜치에서 쭉 하나의 줄기로 나가는 경우
 
-​		![image-20220707222046524](2022-07-07-github-pull-branch.assets/image-20220707222046524.png)
+​		![image-20220707222046524](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-07-07-github-pull-branch.assets/image-20220707222046524.png?raw=true)
 
-![image-20220708003821796](2022-07-07-github-pull-branch.assets/image-20220708003821796.png)
+![image-20220708003821796](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-07-07-github-pull-branch.assets/image-20220708003821796.png?raw=true)
 
 > **서로 다른 branch 에서 커밋을 하여 합쳤지만 가지가 하나이다**
 
@@ -102,9 +108,9 @@
 
 2. #### 서로 다른 branch로 뻗어나갔지만 수정 파일이 겹치지 않는 경우
 
-​		![image-20220707222645535](2022-07-07-github-pull-branch.assets/image-20220707222645535.png)
+​		![image-20220707222645535](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-07-07-github-pull-branch.assets/image-20220707222645535.png?raw=true)
 
-![image-20220708002930911](2022-07-07-github-pull-branch.assets/image-20220708002930911.png)
+![image-20220708002930911](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-07-07-github-pull-branch.assets/image-20220708002930911.png?raw=true)
 
 > **서로 다른 가지에서 작업을 하였지만 파일이 겹치지 않아 충돌없이 바로 merge 된다**
 
@@ -112,13 +118,13 @@
 
 3. #### 서로 다른 branch로 뻗어나가서 같은 파일을 수정한 경우
 
-​		![image-20220707222938006](2022-07-07-github-pull-branch.assets/image-20220707222938006.png)
+​		![image-20220707222938006](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-07-07-github-pull-branch.assets/image-20220707222938006.png?raw=true)
 
-![image-20220708005526066](2022-07-07-github-pull-branch.assets/image-20220708005526066.png)
+![image-20220708005526066](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-07-07-github-pull-branch.assets/image-20220708005526066.png?raw=true)
 
 > 각 브랜치에서 README.md 파일을 다르게 수정하였다. 서로 다른 변경점을 표시해준다. 우리가 직접 파일을 고쳐서 저장해준다.
 
-![image-20220708011122854](2022-07-07-github-pull-branch.assets/image-20220708011122854.png)
+![image-20220708011122854](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-07-07-github-pull-branch.assets/image-20220708011122854.png?raw=true)
 
 > 파일을 고치고 저장한 후 add 그리고 commit을 해준다
 >
@@ -126,7 +132,7 @@
 >
 > 메시지 창을 닫아주면 merging 모드가 종료되면서 커밋이 완료 된다
 
-![image-20220708011200583](2022-07-07-github-pull-branch.assets/image-20220708011200583.png)
+![image-20220708011200583](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-07-07-github-pull-branch.assets/image-20220708011200583.png?raw=true)
 
 > 결국 2번째 경우와 같은 branch 모양이다. 중간에 merge가 자동으로 되는가 직접 우리가 개입을 해야하는가로 구분된다
 
@@ -164,7 +170,7 @@ $ git pull origin branch_name   "원격 저장소로부터 pull"
 
 포크로 폭 떠오듯이 다른 사람의 원격 repository가 나의 원격 repository로 그대로 넘어오는 것이다
 
-![image-20220708014545771](2022-07-07-github-pull-branch.assets/image-20220708014545771.png)
+![image-20220708014545771](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-07-07-github-pull-branch.assets/image-20220708014545771.png?raw=true)
 
 
 
@@ -182,7 +188,7 @@ $ git clone url
 
 
 
-![image-20220708014136810](2022-07-07-github-pull-branch.assets/image-20220708014136810.png)
+![image-20220708014136810](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-07-07-github-pull-branch.assets/image-20220708014136810.png?raw=true)
 
 >  **※주의할점**
 >
@@ -196,7 +202,7 @@ $ git clone url
 
 프로젝트를 진행할 때 수정한 파일을 최고 관리자에게 확인 후 pull과 merge를 요청하는 작업
 
-![image-20220708021916259](2022-07-07-github-pull-branch.assets/image-20220708021916259.png)
+![image-20220708021916259](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-07-07-github-pull-branch.assets/image-20220708021916259.png?raw=true)
 
 자동으로 초록 버튼이 생성되기도 하지만 안뜰때는 직접 pull request에 들어가서 만들어주면 된다
 
@@ -204,4 +210,4 @@ $ git clone url
 
 # 개념 정리
 
-![image-20220708015431287](2022-07-07-github-pull-branch.assets/image-20220708015431287.png)
+![image-20220708015431287](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-07-07-github-pull-branch.assets/image-20220708015431287.png?raw=true)
