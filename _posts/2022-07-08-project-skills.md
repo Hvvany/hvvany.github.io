@@ -1,3 +1,8 @@
+---
+layout: single
+title: "[22.07.08] How to prepare for a job _ The Importance of the Project"
+---
+
 # 포트폴리오 특강
 
 ---
