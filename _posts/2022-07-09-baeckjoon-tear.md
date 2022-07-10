@@ -1,3 +1,8 @@
+---
+layout: single
+title: "[22.07.09] How to add Baekjoon Tear in my profile"
+---
+
 # 백준 티어 깃허브
 
 #백준 #깃허브 #프로필 #티어
