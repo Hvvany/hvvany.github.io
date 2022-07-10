@@ -9,27 +9,27 @@ title: "[22.07.09] How to add Baekjoon Tear in my profile"
 
 
 
-![image-20220711031212574](2022-07-09-baeckjoon-tear.assets/image-20220711031212574.png)
+![image-20220711031212574](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-07-09-baeckjoon-tear.assets/image-20220711031212574.png?raw=true)
 
 > 백준에 가입 또는 로그인을 한다. 우측 위 설정에 들어가 준다.
 
-![image-20220711031740767](2022-07-09-baeckjoon-tear.assets/image-20220711031740767.png)
+![image-20220711031740767](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-07-09-baeckjoon-tear.assets/image-20220711031740767.png?raw=true)
 
 > 설정 목록들 중에서 '보기' 항목에서 solved.ac. 티어, 이름 모두 보기를 클릭해 준다.
 
-![image-20220711031252768](2022-07-09-baeckjoon-tear.assets/image-20220711031252768.png)
+![image-20220711031252768](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-07-09-baeckjoon-tear.assets/image-20220711031252768.png?raw=true)
 
 > 왼쪽에 설정 목록들 중에서 solved.ac 클릭 후 사용 클릭! 그 다음 첫 째줄에 하이퍼 링크가 되어 있는 solved.ac클릭해준다.
 
-![image-20220711031536885](2022-07-09-baeckjoon-tear.assets/image-20220711031536885.png)
+![image-20220711031536885](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-07-09-baeckjoon-tear.assets/image-20220711031536885.png?raw=true)
 
 > solved.ac 사이트로 이동된다. 따로 가입 안해도 백준 아이디로 연동이 된다.
 
-![image-20220711031551261](2022-07-09-baeckjoon-tear.assets/image-20220711031551261.png)
+![image-20220711031551261](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-07-09-baeckjoon-tear.assets/image-20220711031551261.png?raw=true)
 
 BOJ계정으로 로그인 하기 누른다.
 
-![image-20220711031613535](2022-07-09-baeckjoon-tear.assets/image-20220711031613535.png)
+![image-20220711031613535](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-07-09-baeckjoon-tear.assets/image-20220711031613535.png?raw=true)
 
 로그인이 완료되고 설정에 들어가면 나의 티어가 보인다.
 
