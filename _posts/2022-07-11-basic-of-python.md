@@ -1,3 +1,9 @@
+---
+layout: single
+title: "[22.07.11] Basic of Python"
+---
+
+
 # Python 기초
 
 
