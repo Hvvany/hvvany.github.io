@@ -1,3 +1,8 @@
+---
+layout: single
+title: "[22.07.12] Python_if while for"
+---
+
 # Python 조건문/반복문
 
 
