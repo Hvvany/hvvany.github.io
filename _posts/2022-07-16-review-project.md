@@ -1,4 +1,7 @@
-
+---
+layout: single
+title: "[22.07.16] Review Python Project_1"
+---
 
 # Python 프로젝트 코드리뷰
 
