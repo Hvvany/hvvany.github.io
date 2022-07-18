@@ -301,7 +301,7 @@ title: "[22.07.18] Error & Exception "
 
 - 파이썬 내장 예외
 
-	```txt
+	```markdown
   BaseException
    +-- SystemExit
    +-- KeyboardInterrupt
