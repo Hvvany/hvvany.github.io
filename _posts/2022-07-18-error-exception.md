@@ -1,4 +1,7 @@
-
+---
+layout: single
+title: "[22.07.18] Error & Exception "
+---
 
 # Python Error / Error Exception
 
