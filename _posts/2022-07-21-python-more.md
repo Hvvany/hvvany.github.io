@@ -1,3 +1,7 @@
+---
+layout: single
+title: "[22.07.21] Python PSL & PIP "
+---
 # 파이썬 응용
 
 #comprehension #lambda #filter #pip
