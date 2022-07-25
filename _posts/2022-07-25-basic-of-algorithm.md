@@ -36,7 +36,7 @@ title: "[22.07.25] Algorithm & Coding Test "
 
 ### 온라인
 
-![image-20220726005557799](2022-07-25-basic-of-algorithm.assets/image-20220726005557799.png)
+![image-20220726005557799](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-07-25-basic-of-algorithm.assets/image-20220726005557799.png?raw=true)
 
 > **코딩 테스트 사전 안내 메일**
 >
@@ -59,7 +59,7 @@ title: "[22.07.25] Algorithm & Coding Test "
 
 1. 개발형 코딩테스트(Rest API, JSON)
 
-   ![image-20220726010225738](2022-07-25-basic-of-algorithm.assets/image-20220726010225738.png)
+   ![image-20220726010225738](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-07-25-basic-of-algorithm.assets/image-20220726010225738.png?raw=true)
 
 2. 화이트보드 손코딩
 
@@ -67,9 +67,9 @@ title: "[22.07.25] Algorithm & Coding Test "
 
 ### 기업별
 
-![image-20220726010121453](2022-07-25-basic-of-algorithm.assets/image-20220726010121453.png)
+![image-20220726010121453](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-07-25-basic-of-algorithm.assets/image-20220726010121453.png?raw=true)
 
-![image-20220726010136064](2022-07-25-basic-of-algorithm.assets/image-20220726010136064.png)
+![image-20220726010136064](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-07-25-basic-of-algorithm.assets/image-20220726010136064.png?raw=true)
 
 
 
