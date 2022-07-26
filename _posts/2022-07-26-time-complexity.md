@@ -1,3 +1,7 @@
+---
+layout: single
+title: "[22.07.26] Time Complex & List "
+---
 # 시간복잡도&빅오
 
 #시간복잡도 #빅오표기법 #리스트
@@ -64,7 +68,7 @@
 >
 > O(n)       O(n)      O(n^2)
 
-![image-20220726232027939](2022-07-26-time-complexity.assets/image-20220726232027939.png)
+![image-20220726232027939](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-07-26-time-complexity.assets/image-20220726232027939.png?raw=true)
 
 - O(1)
 
@@ -152,7 +156,7 @@
 
 [**BIG-O CHEATSHEET**](https://www.deviantart.com/assyrianic/art/Big-O-Notation-Cheat-Sheet-762169573)
 
-![dclrxt1-6983ae59-a47b-4754-962e-b17d24624b9e](2022-07-26-time-complexity.assets/dclrxt1-6983ae59-a47b-4754-962e-b17d24624b9e.png)
+![dclrxt1-6983ae59-a47b-4754-962e-b17d24624b9e](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-07-26-time-complexity.assets/dclrxt1-6983ae59-a47b-4754-962e-b17d24624b9e.png?raw=true)
 
 
 
