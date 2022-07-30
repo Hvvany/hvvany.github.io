@@ -1,3 +1,7 @@
+---
+layout: single
+title: "[22.07.29] Tips for Study "
+---
 # Some Tips for Study
 
 #ggultip #algorithm
