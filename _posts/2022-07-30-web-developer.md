@@ -1,3 +1,7 @@
+---
+layout: single
+title: "[22.07.30] Web Developer "
+---
 # Web Developer vs App Developer
 
 #개발자 #진로선택 #웹개발자 #앱개발자
