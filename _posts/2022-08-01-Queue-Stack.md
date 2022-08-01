@@ -1,3 +1,7 @@
+---
+layout: single
+title: "[22.08.01] Queue & Stack "
+---
 # Stack & Queue
 
 #stack #queue
