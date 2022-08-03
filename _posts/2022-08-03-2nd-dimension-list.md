@@ -1,3 +1,7 @@
+---
+layout: single
+title: "[22.08.03] 2nd Dimension List "
+---
 # 이차원 리스트
 
 #리스트 #2차원 #행열
