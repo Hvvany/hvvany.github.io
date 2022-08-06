@@ -1,3 +1,7 @@
+---
+layout: single
+title: "[22.08.04] Rotation of list"
+---
 # 순회, 전치, 회전
 
 #순회 #전치 #회전 
