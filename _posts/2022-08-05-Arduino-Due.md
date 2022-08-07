@@ -1,3 +1,7 @@
+---
+layout: single
+title: "[22.08.05] Arduino-Due "
+---
 # Arduino Due board 특징 정리
 
 1. **아두이노 듀에보드 사진**
