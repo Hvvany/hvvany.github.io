@@ -2,7 +2,7 @@
 
 1. **아두이노 듀에보드 사진**
 
-![듀에보드 사진](2022-08-05-Arduino-Due.assets/듀에보드 사진.png)
+![듀에보드 사진](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-08-05-Arduino-Due.assets/%EB%93%80%EC%97%90%EB%B3%B4%EB%93%9C%20%EC%82%AC%EC%A7%84.png?raw=true)
 
 2. **아두이노 듀에보드 특징**
 
