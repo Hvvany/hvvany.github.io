@@ -1,3 +1,7 @@
+---
+layout: single
+title: "[22.08.06] OCT-2nd-week"
+---
 # 우코테 코드 리뷰 2주차
 
 
@@ -19,7 +23,7 @@
 
      
 
-     ![image-20220807183340946](2022-08-05-efficiency.assets/image-20220807183340946.png)
+     ![image-20220807183340946](https://github.com/hvvany/hvvany.github.io/blob/master/_posts/2022-08-06-efficiency.assets/image-20220807183340946.png?raw=true)
 
      
 
