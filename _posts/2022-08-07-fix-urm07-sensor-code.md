@@ -1,3 +1,7 @@
+---
+layout: single
+title: "[22.08.07] Due problem solve"
+---
 # 아두이노 URM07센서와 듀에 보드 연결
 
 
