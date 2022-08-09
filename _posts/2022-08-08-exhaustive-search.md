@@ -1,3 +1,7 @@
+---
+layout: single
+title: "[22.08.08] Exhaustive Search"
+---
 # 완전 탐색1
 
 #완전탐색 #exhaustive_search 
