@@ -1,3 +1,7 @@
+---
+layout: single
+title: "[22.08.11] Coding Test "
+---
 # 코딩 테스트 준비
 
 #코딩테스트 #단순구현 #implementation
