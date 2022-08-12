@@ -1,3 +1,7 @@
+---
+layout: single
+title: "[22.08.12] Project Code Review "
+---
 # 프로젝트 코드리뷰
 
 #코드리뷰 #hphk #파이썬
