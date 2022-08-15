@@ -1,3 +1,7 @@
+---
+layout: single
+title: "[22.08.15] Developer_Market & Skill Stack "
+---
 # 웹개발자 채용 시장 분석
 
 #개발자 #진로 #채용
