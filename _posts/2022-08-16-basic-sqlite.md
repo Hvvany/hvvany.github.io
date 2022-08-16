@@ -1,3 +1,7 @@
+---
+layout: single
+title: "[22.08.16] Basic of SQLite "
+---
 # Database
 
 #db #sql #sqlite #rdb 
