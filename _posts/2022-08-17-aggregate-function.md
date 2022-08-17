@@ -1,3 +1,7 @@
+---
+layout: single
+title: "[22.08.17] Aggregation_Function "
+---
 # SQLite Aggregate Functions
 
 #집계함수 #LIKE #ORDER_BY
