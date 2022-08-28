@@ -1,3 +1,7 @@
+---
+layout: single
+title: "[22.08.27] ZIP & ENUMERATE & SORTED "
+---
 # 베스트 앨범 사기버전
 
 
