@@ -1,3 +1,7 @@
+---
+layout: single
+title: "[22.08.29] Basic of HTML & CSS "
+---
 # Web
 
 #HTML #CSS #WEB
